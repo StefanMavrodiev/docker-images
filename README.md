@@ -2,7 +2,7 @@
 
 Various docker images:
 
-* lichee-base
+* lichee
 
 ### Manual build
 
